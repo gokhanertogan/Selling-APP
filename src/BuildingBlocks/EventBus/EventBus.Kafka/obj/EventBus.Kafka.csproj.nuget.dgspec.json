@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj": {}
+    "C:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj": {
+    "C:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj",
+        "projectUniqueName": "C:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj",
         "projectName": "EventBus.Kafka",
-        "projectPath": "c:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj",
+        "projectPath": "C:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj",
         "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\obj\\",
+        "outputPath": "C:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",

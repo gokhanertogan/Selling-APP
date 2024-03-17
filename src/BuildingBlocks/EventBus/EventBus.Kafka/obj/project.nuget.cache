@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "njdnpq520xbHo7ZAmXsJPgjNaURhAwyzJRQn+WC9COq+Z3XggTzaynpCFpS2KOvUyxN99n61eu/ioiL1hLZuFw==",
+  "dgSpecHash": "z0K4clFnAtwFSHbRvwq89gdhri6xszYBos71r9mxk0tFPJzvpONKjMnBj2VJZVotukBBW/oPpgKS0lllVpHN4Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj",
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\repos\\SellingAPP\\src\\BuildingBlocks\\EventBus\\EventBus.Kafka\\EventBus.Kafka.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
