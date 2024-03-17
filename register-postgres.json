@@ -1,0 +1,26 @@
+{
+    "name": "example-connector",
+    "config": {
+        "connector.class": "io.debezium.connector.postgresql.PostgresConnector",
+        "tasks.max": "1",
+        "database.hostname": "postgres",
+        "database.port": "5432",
+        "database.user": "postgres",
+        "database.password": "123456",
+        "database.dbname": "PaymentDB",
+        "database.server.name": "DebeziumServer",
+        "schema.include.list": "sales",
+        "table.whitelist": "sales.Payments",
+        "topic.prefix": "dbserver1",
+        "plugin.name": "pgoutput",
+        "slot.name": "debezium_slot",
+        "key.converter": "org.apache.kafka.connect.json.JsonConverter",
+        "key.converter.schemas.enable": "false",
+        "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+        "value.converter.schemas.enable": "false",
+        "snapshot.mode": "initial",
+        "decimal.format": "NUMERIC",
+        "json.output.decimal.format": "NUMERIC",
+        "decimal.handling.mode": "string"
+    }
+}
